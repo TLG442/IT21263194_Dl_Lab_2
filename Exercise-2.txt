@@ -1,0 +1,11 @@
+2.1 
+Up to 3rd hiding units, Accuracy starts to increase gradually and when number of hiding units more than 3, it start to decrease the accuracy and after that accuracy rates becomes stable.
+When the hiding units increases, the time taken for the execution starts to increase.
+
+2.2
+Accuracy Pattern:
+
+Initial Increase: Accuracy improves as the number of hidden units increases from 1 to 5 hidden units.
+Plateau: After 5 hidden units, accuracy stabilizes, showing little change as the number of hidden units increases further.
+Diminishing Returns: Beyond 5 hidden units, adding more nodes (20, 50, 100) yields similar accuracy levels, indicating diminishing returns in performance improvement.
+The accuracy increases significantly with more hidden units up to a point (around 5 hidden units), then levels off, suggesting that additional hidden nodes do not contribute much to improved performance.
